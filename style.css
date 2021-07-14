@@ -160,7 +160,7 @@ i {
   font-weight   : 600;
   text-transform: uppercase;
   color         : rgba(18, 27, 44, 1);
-  box-shadow    : 0 3px 0 rgba(0, 255, 127, .5);
+  box-shadow    : 0 3px 0 rgba(0, 255, 127, .6);
 }
 
 .services-content {
